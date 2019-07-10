@@ -1,7 +1,15 @@
 # frameworks
 
+## Animações:
+- https://daneden.github.io/animate.css/
+- https://wowjs.uk/
+- http://bouncejs.com  
+
 ## Cartão de crédito:
 - https://github.com/jessepollak/card
+
+## Digitar automaticamente:
+- https://typeitjs.com/
 
 ## Gestos mobile:
 - https://hammerjs.github.io/
@@ -12,26 +20,20 @@
 ## Mapa:
 - https://leafletjs.com
 
-## Slides:
-- http://idangero.us/swiper/api/
-
-## Animações:
-- https://daneden.github.io/animate.css/
-- https://wowjs.uk/
-- http://bouncejs.com   
-
 ## Menu mobile:
 - https://github.com/jachinte/jquery.secretnav 
+
+## Notificações:
+- https://www.polonel.com/snackbar/
+
+## Scroll suave:
+- https://github.com/gblazex/smoothscroll-for-websites/blob/master/SmoothScroll.js
+
+## Slides:
+- http://idangero.us/swiper/api/
 
 ## Tooltips:
 - https://atomiks.github.io/tippyjs/
 
 ## Upload:
 - https://github.com/shabuninil/fileup   
-
-## Notificações:
-- https://www.polonel.com/snackbar/
-
-## Digitar automaticamente:
-- https://typeitjs.com/
-
